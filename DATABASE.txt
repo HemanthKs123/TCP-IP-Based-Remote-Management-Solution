@@ -1,0 +1,25 @@
+Commands History of Client with IP & Port -> 127.0.0.1 & 49422: 
+1. get-mem bash
+2. get-mem RMS_Server
+3. get-ports-used RMS_Client
+4. kill sleep
+5. history 
+6. get-open-fd bash
+Commands History of Client with IP & Port -> 127.0.0.1 & 49424: 
+1. get-mem bash
+Commands History of Client with IP & Port -> 127.0.0.1 & 49426: 
+1. get-mem sleep
+2. get-type bash
+Commands History of Client with IP & Port -> 127.0.0.1 & 42482: 
+1. get-mem sleep
+2. get-cpu-usage sleep
+3. get-ports-used RMS_Client
+4. get-ports-used RMS_Server
+5. get-mem RMS_Server
+6. get-cpu-usage RMS_Server
+7. kill sleep
+8. kill mem
+Commands History of Client with IP & Port -> 127.0.0.1 & 42484: 
+1. get-mem sleep
+2. get-cpu-usage ps
+3. history 
